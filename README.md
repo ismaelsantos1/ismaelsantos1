@@ -1,19 +1,9 @@
 ### Hi!! I'm Ismael dos Santos
 
-<!--
-**ismaelsantos1/ismaelsantos1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on front-end
-- 🌱 I’m currently learning JavaScript
-- 📫 contact me on email: ismaelshenrique11@gmail.com
-- 😄 Pronouns: ele/dele
--->
 # 💫 About Me:
 - 🔭 I’m currently working on HTML5 and CSS <br>
 - 🌱 I’m currently learning JavaScript <br>
-- 📫 contact me on email: ismaelshenrique11@gmail.com <br>
 - 😄 Pronouns: ele/dele <br>
 
 ## 🌐 Socials: 
@@ -21,10 +11,15 @@ Here are some ideas to get you started:
 ">
 <a href="https://linkedin.com/in/ismael-dos-santos" targert="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 ">
-<a href="" targert="_blank"><img src=""></a>
+<a href="mailto:ismaelshenrique11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+"></a>
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=flat-square&logo=krita&logoColor=EEF37B) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Isma-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Isma-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Isma-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+</div>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ismaelsantos1&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ismaelsantos1&theme=radical&hide_border=false)<br/>
