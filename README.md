@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 - 🔭 I’m currently working on Front-End <br>
-- 🌱 I’m currently learning JavaScript <br>
+- 🌱 I’m currently learning JavaScript and C <br>
 - 😄 Pronouns: ele/dele <br>
 
 ## 🌐 Socials:
