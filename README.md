@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on Python <br>
+- 🔭 I’m currently working on ... <br>
 - 🌱 I’m currently learning Python | Data Science <br>
 
 ## 🌐 Socials:
